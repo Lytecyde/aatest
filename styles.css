@@ -53,6 +53,12 @@ body {
     text-decoration: none;
 }
 
+.header-right .meetings{
+    color: darkorange;
+    text-decoration: double;
+
+}
+
 .header-right .divider {
     margin: 0 10px;
     font-weight: normal;
@@ -186,4 +192,10 @@ body {
     .header-right .divider {
         display: none;
     }
+}
+
+.text-content {
+    width: 520px;
+    margin: 0 auto;
+    padding: 20px;
 }
