@@ -59,7 +59,7 @@ body {
 }
 
 .hero-image {
-    height: 350px;
+    height: 200px;
     background-image: url('header.jpg');
     background-size: cover;
     background-position: center;
@@ -133,14 +133,10 @@ body {
 }
 
 /* Colors from the sketch */
-.box-1 { background-color: #f18e55; }
-.box-2 { background-color: #f5d454; }
-.box-3 { background-color: #8bb1a9; }
-.box-4 { background-color: #3b82f6; }
-.box-5 { background-color: #8c9ee7; }
-.box-6 { background-color: #e0abc8; }
-.box-7 { background-color: #e4844d; }
-.box-8 { background-color: #efd45b; }
+.box {
+    background-color: #3b82f6;
+    border-radius: 5%;
+}
 
 @media (max-width: 992px) {
     .grid-container {
