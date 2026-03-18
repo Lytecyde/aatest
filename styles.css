@@ -71,7 +71,7 @@ body {
 
 .hero-image {
     width: 100%;
-    max-width: 1200px;
+    max-width: 820px;
     height: 200px;
     background-image: url('header.jpg');
     background-size: contain, cover;
